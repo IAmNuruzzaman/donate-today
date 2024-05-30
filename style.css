@@ -1,0 +1,133 @@
+.header {
+    background-image: url(images/donation14.webp);
+    width: 100%;
+    background-repeat: no-repeat;
+
+
+
+
+}
+
+.header h1 {
+    color: rgb(18, 221, 18);
+    font-size: 60px;
+
+}
+
+.head {
+    padding: 100px;
+    text-align: center;
+    margin-right: 0px;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 15px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.donation {
+    text-align: center;
+
+}
+
+hr{
+    margin-bottom: 100px;
+    width: 50%;
+   
+}
+
+.donation h1 {
+    font-size: 40px;
+    text-align: center;
+
+}
+
+
+.donate {
+    display: flex;
+
+}
+
+.donate h1 {
+    padding: 30px;
+    background-color: rgb(231, 208, 208);
+    border: 2px solid black;
+    margin-left: 30px;
+
+}
+
+.donate h1:hover {
+    background-color: black;
+    color: white;
+    border: 5px solid sandybrown;
+}
+
+a {
+    text-align: center;
+}
+
+
+.donation-plan {
+    display: flex;
+
+
+}
+
+#donate-one {
+    font-size: 60px;
+}
+
+.donate-h1 {
+    text-align: center;
+}
+
+.half-width {
+
+    box-shadow: 10px 20px 40px gray;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+#half-width-one {
+    background-color: antiquewhite;
+}
+
+
+#half-width-two {
+    background-color: aquamarine;
+}
+
+
+#half-width-three {
+    background-color: aqua;
+}
+
+.get-my-update{
+    text-align: center;
+    
+}
+
+.get-my{
+    
+    padding: 50px 50px;
+    margin: 0px;
+    align-items: center;
+    background-color: bisque;
+}
+
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: orange;
+    padding: 20px;
+}
+
+.footer h1{
+    font-size: 40px;
+}
